@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aniket and I'm a Software Engineer from IIT Madras and IPS Academy</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://imgs.search.brave.com/fgVZDPgsvW29LbsbrNKyj5cQVm9lcsSMftBEVvmVU4A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyMy8w/NS8xMi81NTB4MzA5/L2V6Z2lmLTMtM2Rh/ODAzNWEzMF8xNjgz/ODc2ODIzODI4XzE2/ODM4NzY4MzA0Njku/anBn" alt="Snake animation" />
 
 ###
 
