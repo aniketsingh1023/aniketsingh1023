@@ -45,21 +45,16 @@ I'm a Coder by passion with more than 5 years of programming experience and curr
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/DevHacker#0961" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=M725CLW4L7wE&format=png" width="32" height="32" /></a> 
-<a href="https://www.github.com/parag477" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/parag_codes" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/parag-agrawal-101892202/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="32" height="32" /></a> 
-<a href="https://paragagrawal.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/parag_477" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=13963&format=png" width="32" height="32" /></a></p>
+<a href="https://discord.com/users/Outlaw#3434" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=M725CLW4L7wE&format=png" width="32" height="32" /></a> 
+<a href="https://www.github.com/aniketsingh1023" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/hey.anik8" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/aniket-singh-994b34274/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/CodewithAnik8" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=13963&format=png" width="32" height="32" /></a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/parag477"><img src="https://github-readme-stats.vercel.app/api?username=parag477&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="parag477's GitHub stats" /></a>
-
-<a href="https://github.com/parag477" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parag477&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/parag477"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Anik8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
