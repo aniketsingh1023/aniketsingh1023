@@ -51,7 +51,7 @@ I'm a Coder by passion with more than 5 years of programming experience and curr
 <a href="https://www.linkedin.com/in/aniket-singh-994b34274/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/CodewithAnik8" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=13963&format=png" width="32" height="32" /></a></p>
 
-### Badges
+
 
 
 
