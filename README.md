@@ -12,6 +12,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh1023&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh1023&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<picture>
+ ## 🐍 GitHub Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg" />
+</picture>
+
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
