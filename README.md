@@ -1,54 +1,27 @@
-Hi 👋 My name is Aniket
-==============================
-
-Python Programmer | Web Dev | Freelancer
---------------------------------------------------
-
-I'm a Coder by passion with more than 5 years of programming experience and currently pursuing Bachelors degree with Computer Science. I personally prefer to work on python language.  I can also create good front-end using HTML, CSS, JS and web-dev frameworks like Bootstrap. I particularly adapt with different IDEs. Apart from web development I mastered Machine Learning and Deep Learning. I also practiced NLP, Computer Vision, Neural network .
-
-* 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [aniketsinghn10@gmail.com](mailto:aniketsinghn10@gmail.com)
-* 🧠  I'm learning Web3.0 ...
-* ⚡  In my leisure time I generally play strategy and adventure games on computer...
-
-### Skills
+# 💫 About Me:
+👋 Hi, I'm Aniket Singh  <br>🚀 AI Engineer | Data Scientist | Cloud Enthusiast  <br> 💡 About Me  <br>🎓 Third-year AIML Student , passionate about Artificial Intelligence and Cloud Technologies.  <br>📊 Data Scientist. exploring analytics, machine learning pipelines, and neural networks.  <br>☁️ Cloud Enthusiast  working on scalable AI deployments with cloud platforms like AWS, GCP, and Azure.  <br> 🧩 Team Player & Technical Lead at GDG OC 24-25.  <br>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" width="36" height="36" alt="C" /></a>
-&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=108784&format=png" width="36" height="36" alt="JavaScript" /></a>
-&nbsp;<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=anECpXcEIboQ&format=png" width="36" height="36" alt="PHP" /></a>
-&nbsp;<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=13441&format=png" width="36" height="36" alt="Python" /></a>
-&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=20909&format=png" width="36" height="36" alt="HTML5" /></a>
-&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=123603&format=png" width="36" height="36" alt="React" /></a>
-&nbsp;<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=71257&format=png" width="36" height="36" alt="Angular" /></a>
-&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=21278&format=png" width="36" height="36" alt="CSS3" /></a>
-&nbsp;<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=84710&format=png" width="36" height="36" alt="Bootstrap" /></a>
-&nbsp;<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=54087&format=png" width="36" height="36" alt="NodeJS" /></a>
-&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="36" height="36" alt="Express" /></a>
-&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=74402&format=png" width="36" height="36" alt="MongoDB" /></a>
-&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="36" height="36" alt="MySQL" /></a>
-&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5c4c2f1d7cce956f910b9a0a3d3ecaabc436824c7d023a9aa620eac4ae008a98/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f676f6f676c652d692d6f2d323031362f3531322f676f6f676c655f66697265626173652d322d3531322e706e67" width="36" height="36" alt="Firebase" /></a>
-&nbsp;<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=31085&format=png" width="36" height="36" alt="Heroku" /></a>
-&nbsp;<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=MHcMYTljfKOr&format=png" width="36" height="36" alt="Flask" /></a>
-&nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=qULYrKvr-AFH&format=png" width="36" height="36" alt="Django" /></a>
-&nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=13677&format=png" width="36" height="36" alt="Photoshop" /></a>
-&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" width="36" height="36" alt="Figma" /></a>
-&nbsp;<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=Oi106YG9IoLv&format=png" width="36" height="36" alt="MetaMask" /></a>
-&nbsp;<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=100819&format=png" width="36" height="36" alt="Ethereum" /></a>
-&nbsp;<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/polygon-matic-logo.png" width="36" height="36" alt="Polygon" /></a>
-&nbsp;<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=at2DODSyQznb&format=png" width="36" height="36" alt="Solidity" /></a>
-&nbsp;<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="36" height="36" alt="Hardhat" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@outlawog) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/algozenith_ipsa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-singh-994b34274/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aniketsinghn10) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23538749/user23538749) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/CodewithAnik8) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniketsingh1023&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh1023&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh1023&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Socials
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniketsingh1023&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-<a href="https://discord.com/users/Outlaw#3434" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=M725CLW4L7wE&format=png" width="32" height="32" /></a> 
-<a href="https://www.github.com/aniketsingh1023" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=12599&format=png" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/hey.anik8" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/aniket-singh-994b34274/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" width="32" height="32" /></a> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniketsingh1023&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aniketsingh1023&icon=1&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ht="32" /></a> 
 <a href="https://www.twitter.com/CodewithAnik8" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1x&id=13963&format=png" width="32" height="32" /></a></p>
 
 
