@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aniket Singh  <br>🚀 AI Engineer | Data Scientist | Cloud Enthusiast  <br> 💡 About Me  <br>🎓 Third-year AIML Student , passionate about Artificial Intelligence and Cloud Technologies.  <br>📊 Data Scientist. exploring analytics, machine learning pipelines, and neural networks.  <br>☁️ Cloud Enthusiast  working on scalable AI deployments with cloud platforms like AWS, GCP, and Azure.  <br> 🧩 Team Player & Technical Lead at GDG OC 24-25.  <br>
+👋 Hi, I'm Aniket Singh  <br>🚀 AI Engineer | Data Scientist | Full Stack Web Developer  
 
 
 ## 🌐 Socials:
