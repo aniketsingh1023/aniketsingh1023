@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Aniket Singh  <br>🚀 AI Engineer | Data Scientist | Full Stack Web Developer  
+
+👋 Hi, I'm Aniket Singh  <br> AI Engineer | Data Scientist | Full Stack Web Developer  
 
 
 ## 🌐 Socials:
