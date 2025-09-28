@@ -30,6 +30,7 @@
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,java,bootstrap,tailwind,mysql,postgres,mongodb,git,github,docker,aws,gcp,figma" />
 </p>
 
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/aniketsingh1023?username=aniketsingh1023" alt="GitHub Trophies" />
