@@ -16,8 +16,8 @@
 ```
   const aniket = {
     name: "Aniket Singh",
-    role: ["AI Engineer", "Data Scientist", "Full Stack Dev"],
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    role: ["AI Engineer", "Devops", "Full Stack Dev"],
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
     tools: ["React", "Next.js", "Node.js", "FastAPI", "Tailwind", "Docker"],
     currentlyWorkingOn: "🚀 Unjob.ai",
     learning: ["TypeScript", "FastAPI"],
