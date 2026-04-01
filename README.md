@@ -5,7 +5,7 @@
 
 <!-- ══════════════════════  TOP BANNER  ══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B3D2E,50:145A32,100:1F7A5C&height=200&section=header&text=ANIKET%20SINGH&fontSize=60&fontColor=E8FFF4&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps&descAlignY=75&descSize=18&descColor=7FFFD4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B3D2E,60:145A32,100:1F7A5C&height=200&section=header&text=ANIKET%20SINGH&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps&descAlignY=76&descSize=19&descColor=7FFFD4&stroke=27AE60&strokeWidth=2" width="100%"/>
 
 <!-- ══════════════════════  TYPING HERO  ══════════════════════ -->
 
