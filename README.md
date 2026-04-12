@@ -381,7 +381,7 @@ Scanning badge wallet...  ██████████████████
 │  🎯  Frontend Battle Winner — IIT Bhubaneswar                      │
 │  ⚡  Hackndore Hackathon Winner                                     │
 │  🌍  Hacktoberfest 2024 — All Levels Completed                     │
-│  🤝  GSSoC Contributor 2025                                         │
+│  🤝  GSSoC Contributor 2025                                         
 │  🎓  Mentored 2+ national-level hackathon teams                    │
 │  💼  Lead — IPS Tech Club  ·  200+ events organized                │
 └────────────────────────────────────────────────────────────────────┘
@@ -417,18 +417,16 @@ visitor@github:~$ exit
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        session terminated                             ║
-║                                                                        ║
-║   "Engineers build features — I build products."                      ║
-║                                                    — Aniket Singh      ║
-║                                                                        ║
-║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai        ║
+║                        session terminated                            ║
+║                                                                      ║
+║   "Engineers build features — I build products."                     ║
+║                                                    — Aniket Singh    ║
+║                                                                      ║
+║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=145A32&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.+Now+go+build+something.;Leave+a+⭐+if+something+helped.;Open+to+collaborations+%26+full-time+roles.;Let%27s+connect+→+anik8.me" alt="Footer Typing" />
-</a>
+
 
 <br/><br/>
 
