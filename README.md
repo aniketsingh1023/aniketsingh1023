@@ -1,439 +1,299 @@
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!--              ANIKET SINGH — GITHUB PROFILE README  v3.0               -->
-<!--         Terminal · Dark Green · Builder Energy · Crazy Dev             -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-
-<!-- ══════════════════════  TOP BANNER  ══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B3D2E,60:145A32,100:1F7A5C&height=200&section=header&text=ANIKET%20SINGH&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps&descAlignY=76&descSize=19&descColor=7FFFD4&stroke=27AE60&strokeWidth=2" width="100%"/>
-
-<!-- ══════════════════════  TYPING HERO  ══════════════════════ -->
-
+<!-- HEADER -->
 <div align="center">
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=1F7A5C&center=true&vCenter=true&multiline=false&width=700&height=40&lines=%24+whoami+%E2%86%92+Aniket+Singh;%24+role+%E2%86%92+AI+Engineer+%7C+Full+Stack+%7C+DevOps;%24+ship+%E2%86%92+45%2C000%2B+users+on+Unjob.ai+%F0%9F%9A%80;%24+wins+%E2%86%92+SIH+2025+%28ISRO%29+%7C+AIR+1+BAJA+%7C+IIT+BBS;%24+delivered+%E2%86%92+40%2B+freelance+projects;%24+stack+%E2%86%92+JS+%7C+TS+%7C+Python+%7C+AI+%7C+Cloud;%24+vibe+%E2%86%92+clean+arch+%7C+ship+fast+%7C+scale+smart" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-anik8.me-0B3D2E?style=for-the-badge&logoColor=white)](https://anik8.me)
-[![Email](https://img.shields.io/badge/📬_Email-aniketsinghn10@gmail.com-145A32?style=for-the-badge&logoColor=white)](mailto:aniketsinghn10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F7A5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketsingh1023)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsingh1023)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aniketsingh1023&label=terminal+sessions&color=1F7A5C&style=for-the-badge)
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B3D2E,60:145A32,100:1F7A5C&height=200&section=header&text=ANIKET%20SINGH&fontSize=65&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps&descAlignY=76&descSize=19&descColor=7FFFD4&stroke=27AE60&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
----
-
-<!-- ══════════════════════  $ boot  ══════════════════════ -->
-
+<!-- BADGES ROW -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ANIKET-OS  v3.0.26  [production]                  ║
-║        kernel: ambition  •  arch: distributed  •  uptime: 24/7       ║
-║                                                                        ║
-║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  boot complete         ║
-║                                                                        ║
-║   ✓  AI subsystem          loaded                                     ║
-║   ✓  Full Stack runtime    loaded                                     ║
-║   ✓  DevOps pipeline       loaded                                     ║
-║   ✓  Builder mode          ACTIVE                                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://komarev.com/ghpvc/?username=aniketsingh1023&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/aniketsingh1023?tab=followers"><img src="https://img.shields.io/github/followers/aniketsingh1023?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Followers" alt="Followers"/></a>
+  &nbsp;
+  <a href="https://github.com/aniketsingh1023?tab=repositories"><img src="https://img.shields.io/github/stars/aniketsingh1023?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&label=Total+Stars" alt="Stars"/></a>
 </div>
 
 <br/>
 
----
-
-<!-- ══════════════════════  $ whoami  ══════════════════════ -->
-
-```bash
-visitor@github:~$ whoami --verbose
-```
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   USER         →  aniketsingh1023                                   │
-│   NAME         →  Aniket Singh                                       │
-│   ROLE         →  AI Engineer  ·  Full Stack Dev  ·  DevOps         │
-│   EDUCATION    →  B.Tech CSE (AI & ML)  ·  IES IPS Academy, Indore  │
-│   SHIP         →  UNJOB.AI 🚀  —  45,000+ users & counting          │
-│   IMPACT       →  40+ freelance projects  ·  led teams of 5+        │
-│   RESEARCH     →  Published: Polyp Detection using U-Net (2025)      │
-│   WINS         →  SIH 2025 ISRO Winner  ·  AIR 1 BAJA  ·  IIT BBS  │
-│   PORTFOLIO    →  https://anik8.me                                   │
-│   CONTACT      →  aniketsinghn10@gmail.com                           │
-│                                                                      │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://anik8.me"><img src="https://img.shields.io/badge/anik8.me-000?style=flat&logo=safari&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://linkedin.com/in/aniketsingh1023"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:aniketsinghn10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/aniketsingh1023"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
 ---
 
-<!-- ══════════════════════  $ cat profile.js  ══════════════════════ -->
+<!-- TYPING HERO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1F7A5C&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Aniket+Singh;%24+role+%E2%86%92+AI+Engineer+%7C+Full+Stack+%7C+DevOps;%24+ship+%E2%86%92+45%2C000%2B+users+on+Unjob.ai;%24+wins+%E2%86%92+SIH+2025+%28ISRO%29+%7C+AIR+1+BAJA+%7C+IIT+BBS;%24+stack+%E2%86%92+JS+%7C+TS+%7C+Python+%7C+AI+%7C+Cloud" alt="Typing SVG" />
+  </a>
+</div>
 
-```bash
-visitor@github:~$ cat profile.js
-```
+---
 
-```javascript
-const aniket = {
-  name       : "Aniket Singh",
-  role       : ["AI Engineer", "Full Stack Developer", "DevOps Engineer"],
+### What I'm Currently Building
 
-  languages  : ["JavaScript (ES6+)", "TypeScript", "Python", "SQL", "Java"],
-
-  frontend   : ["React.js", "Next.js", "React Native", "Tailwind CSS",
-                "Framer Motion", "Bootstrap", "HTML5", "CSS3"],
-
-  backend    : ["Node.js", "Express.js", "FastAPI", "Flask",
-                "Django", "REST APIs", "WebSockets"],
-
-  databases  : ["PostgreSQL", "MongoDB", "MySQL", "Redis",
-                "Vector DBs (FAISS, Pinecone)"],
-
-  cloud      : ["AWS (EC2, S3, Lambda, CloudFront, IAM)",
-                "GCP", "Docker", "Nginx", "CI/CD", "Linux"],
-
-  ai_ml      : ["LLM Integration", "RAG Pipelines", "LangChain",
-                "U-Net", "Medical Image Segmentation"],
-
-  tools      : ["Git", "GitHub", "Prisma ORM", "Supabase",
-                "Vercel", "Netlify", "Postman", "Jira", "Figma"],
-
-  currentlyBuilding : "🚀 Unjob.ai — AI-powered freelancer marketplace",
-  openTo            : ["Full-time roles", "Collaborations", "Open Source"],
-  askMeAbout        : ["System Design", "AI/ML", "Scaling SaaS", "DevOps"],
-
-  contact    : "aniketsinghn10@gmail.com",
-  portfolio  : "https://anik8.me",
-
-  philosophy : () => "Engineers build features — I build products."
+```typescript
+const currentFocus = {
+  roles: [
+    { company: "Unjob.ai", role: "Founding Engineer & Project Lead" },
+  ],
+  building: ["AI-powered freelancer marketplace", "Multi-agent orchestration platform (CtrlAI)"],
+  stack:    ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "AWS", "Docker"],
+  impact:   "45,000+ users across web & mobile",
+  research: "Published: Polyp Detection using U-Net (2025)",
+  status:   "shipping fast",
 };
-
-export default aniket;
-// ✓ compiled  ·  0 errors  ·  0 warnings  ·  shipped to prod
 ```
-
-<br/>
 
 ---
 
-<!-- ══════════════════════  $ experience  ══════════════════════ -->
+### Experience
 
-```bash
-visitor@github:~$ cat experience.log
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  [2025-06 → now]   Founding Engineer & Project Lead · Unjob.ai       │
-│  ├─ Built MVP → production  ·  45,000+ users (web + mobile)          │
-│  ├─ Migrated MongoDB → PostgreSQL  ·  improved perf + reliability     │
-│  ├─ Led team of 5 devs  ·  owned full product lifecycle               │
-│  └─ Stack: Next.js · TypeScript · Node.js · PostgreSQL · AWS         │
-│                                                                        │
-│  [2025-03 → 2025-05]  Assoc. SDE Intern · Qualimatrix Technologies   │
-│  ├─ Full-stack MERN development on production-grade apps              │
-│  ├─ AI-powered feature integration                                    │
-│  └─ Stack: React · Next.js · Node.js · MongoDB · AWS                 │
-│                                                                        │
-│  [2024-09 → 2025-02]  Python Dev & Data Analyst · Botmartz IT        │
-│  ├─ Built Astroshala RAG chatbot  ·  Flask + Vector DBs              │
-│  ├─ FastAPI backend systems  ·  data analysis pipelines               │
-│  └─ Stack: Python · Flask · FastAPI · FAISS · Pinecone               │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<h4>Unjob.ai</h4>
+<sub>Founding Engineer & Project Lead &nbsp;|&nbsp; Jun 2025 — Present &nbsp;|&nbsp; On-site, Noida</sub>
 
-<br/>
+Built MVP → production serving **45,000+ users (web + mobile)**. Migrated MongoDB → PostgreSQL. Led a team of 5 devs — owned full product lifecycle.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>Qualimatrix Technologies</h4>
+<sub>Assoc. SDE Intern &nbsp;|&nbsp; Mar 2025 — May 2025 &nbsp;|&nbsp; Remote</sub>
+
+Full-stack MERN development on production-grade apps with AI-powered feature integration.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>Botmartz IT Solution</h4>
+<sub>Python Dev & Data Analyst &nbsp;|&nbsp; Sep 2024 — Feb 2025 &nbsp;|&nbsp; Hybrid, Indore</sub>
+
+Built Astroshala RAG chatbot using Flask + Vector DBs. FastAPI backend systems and data analysis pipelines.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-FF6F00?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000?style=flat&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>IES IPS Academy, Indore</h4>
+<sub>B.Tech CSE (AI & ML) &nbsp;|&nbsp; 2022 — 2026</sub>
+
+Lead — IPS Tech Club (200+ events). Published research on Polyp Detection using U-Net. Active open source contributor (GSSoC 2025, Hacktoberfest 2024).
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research-Published-27AE60?style=flat"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ══════════════════════  $ tech-stack  ══════════════════════ -->
+### Projects
 
-```bash
-visitor@github:~$ tech-stack --list all --verbose
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-Resolving dependencies...  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%
-```
+<h4><a href="https://unjob.ai">Unjob.ai</a></h4>
+
+AI-powered freelancer marketplace. **45,000+ users** on web + mobile. Full ownership from MVP to production.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>CtrlAI</h4>
+
+Multi-agent orchestration platform — real-time Claude Code workflow automation inspired by n8n.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_APIs-000?style=flat&logo=openai&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>TEDx IPSA 2026</h4>
+
+Official event platform with admin panel — **10,000+ users/day** at peak.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>Polyp Detection — Medical AI</h4>
+
+Published research (2025): U-Net segmentation for early colorectal cancer detection.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research-Published-27AE60?style=flat"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-<br/>
-
-**`// ─── Languages ───────────────────────────────────────`**
+**`Languages`**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`// ─── Frontend & Mobile ───────────────────────────────`**
+**`Frontend & Mobile`**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`// ─── Backend & APIs ──────────────────────────────────`**
+**`Backend & APIs`**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`// ─── Databases ───────────────────────────────────────`**
+**`Databases`**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`// ─── Cloud & DevOps ──────────────────────────────────`**
+**`Cloud & DevOps`**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`// ─── Tools & Workflow ────────────────────────────────`**
+**`Tools`**
 
 <img src="https://skillicons.dev/icons?i=git,github,prisma,supabase,vercel,netlify,postman,jira&theme=dark&perline=8" />
 
 </div>
 
-<br/>
+---
 
-```
-→ 35+ packages installed  ·  all systems operational  ·  ready to ship
-```
+### Achievements
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SIH 2025 — ISRO Problem Statement**
+National Winner. AI-powered solution using clean architecture.
+
+**AIR 1 — BAJA SAE India**
+Built an autonomous buggy vehicle. All-India Rank 1.
+
+**Frontend Battle — IIT Bhubaneswar**
+Winner. Fast-paced competitive frontend challenge.
+
+</td>
+<td width="50%" valign="top">
+
+**Hackndore Hackathon — Winner**
+Product shipped in 24 hrs.
+
+**GSSoC 2025 Contributor**
+Open source contributions across multiple repos.
+
+**Hacktoberfest 2024 — All Levels Completed**
+
+**IPS Tech Club Lead — 200+ events organized**
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ══════════════════════  $ projects  ══════════════════════ -->
-
-```bash
-visitor@github:~$ ls projects/ --sort=impact
-```
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                       │
-│  🚀  Unjob.ai            AI Freelancer Marketplace                   │
-│      45,000+ users  ·  Next.js · TS · PostgreSQL · AWS               │
-│      → Production  [LIVE]                                            │
-│                                                                       │
-│  🤖  CtrlAI              Multi-Agent Orchestration Platform           │
-│      n8n-inspired Claude Code orchestrator · real-time workflows      │
-│      → Next.js · Prisma · Supabase · Clerk · LLM APIs               │
-│                                                                       │
-│  🎤  TEDx IPSA 2026      Official Platform                           │
-│      10,000+ users/day peak  ·  full admin panel                     │
-│      → React · Node.js · Express · MongoDB                           │
-│                                                                       │
-│  🛍️  Cartella            Multi-Vendor E-commerce                     │
-│      Modular vendor onboarding + product management                   │
-│      → Next.js · TypeScript · Prisma · PostgreSQL                    │
-│                                                                       │
-│  🧬  Polyp Detection     Medical AI Research (Published 2025)         │
-│      U-Net segmentation for early colorectal cancer detection         │
-│      → Python · TensorFlow · Medical Imaging                         │
-│                                                                       │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<!-- ══════════════════════  $ github-stats  ══════════════════════ -->
-
-```bash
-visitor@github:~$ github-stats --user aniketsingh1023 --theme terminal
-```
-
-```
-Connecting to GitHub API...  authenticated  ✓
-```
+### GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&theme=dark&bg_color=0D1117&border_color=1F7A5C&title_color=27AE60&icon_color=1F7A5C&text_color=c9d1d9&ring_color=145A32&hide_border=false&count_private=true&include_all_commits=true" height="175" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh1023&theme=dark&background=0D1117&border=1F7A5C&ring=27AE60&fire=1F7A5C&currStreakNum=E8FFF4&currStreakLabel=27AE60&sideNums=c9d1d9&sideLabels=7FFFD4&dates=8b949e" height="175" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh1023&layout=compact&theme=dark&bg_color=0D1117&border_color=1F7A5C&title_color=27AE60&text_color=c9d1d9&langs_count=8" height="155" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&icon_color=1F7A5C&text_color=e6edf3&rank_icon=github" height="200" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=aniketsingh1023&theme=github-dark-blue&hide_border=true&background=0d1117&ring=27AE60&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" height="200" alt="GitHub Streak"/>
 </div>
-
-<br/>
-
-```
-→ metrics fetched  ·  PRs merged  ·  bugs squashed  ·  prod stable
-```
-
-<br/>
 
 ---
 
-<!-- ══════════════════════  $ activity-graph  ══════════════════════ -->
-
-```bash
-visitor@github:~$ activity --graph --year 2025
-```
+### Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsingh1023&bg_color=0D1117&color=1F7A5C&line=27AE60&point=7FFFD4&area=true&area_color=0B3D2E&hide_border=false&border_color=1F7A5C&title_color=27AE60" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  </picture>
 </div>
-
-<br/>
 
 ---
 
-<!-- ══════════════════════  $ contributions  ══════════════════════ -->
-
-```bash
-visitor@github:~$ contributions --render snake --mode dark
-```
-
-```
-Loading contribution graph...  nom nom nom
-```
-
+<!-- FOOTER -->
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg" width="100%" />
-</picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A5C,50:145A32,100:0B3D2E&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
 
-```
-→ all squares consumed  ·  streak maintained  ·  commits: still counting
-```
-
-<br/>
-
----
-
-<!-- ══════════════════════  $ trophies  ══════════════════════ -->
-
-```bash
-visitor@github:~$ trophies --unlock all
-```
-
-```
-Decrypting vault...  access granted  ✓
-```
-
 <div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=aniketsingh1023&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
+  <sub>Built with caffeine and curiosity &nbsp;|&nbsp; <a href="https://anik8.me">anik8.me</a></sub>
 </div>
-
-<br/>
-
----
-
-<!-- ══════════════════════  $ achievements  ══════════════════════ -->
-
-```bash
-visitor@github:~$ achievements --display holopin
-```
-
-```
-Scanning badge wallet...  ██████████████████████████████  unlocked
-```
-
-<div align="center">
-
-[![@aniketsingh1023 Holopin Board](https://holopin.me/aniketsingh1023)](https://holopin.io/@aniketsingh1023)
-
-</div>
-
-<br/>
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│  🏆  SIH 2025 — ISRO Problem Statement Winner                      │
-│  🥇  AIR 1 — BAJA (Built autonomous buggy vehicle)                 │
-│  🎯  Frontend Battle Winner — IIT Bhubaneswar                      │
-│  ⚡  Hackndore Hackathon Winner                                     │
-│  🌍  Hacktoberfest 2024 — All Levels Completed                     │
-│  🤝  GSSoC Contributor 2025                                         
-│  🎓  Mentored 2+ national-level hackathon teams                    │
-│  💼  Lead — IPS Tech Club  ·  200+ events organized                │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<!-- ══════════════════════  $ visitors  ══════════════════════ -->
-
-```bash
-visitor@github:~$ visitors --count --display
-```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aniketsingh1023&label=terminal+sessions&color=1F7A5C&style=for-the-badge)
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════  FOOTER  ══════════════════════ -->
-
-```bash
-visitor@github:~$ exit
-```
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        session terminated                            ║
-║                                                                      ║
-║   "Engineers build features — I build products."                     ║
-║                                                    — Aniket Singh    ║
-║                                                                      ║
-║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai         ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-
-
-<br/><br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A5C,50:145A32,100:0B3D2E&height=120&section=footer&text=&fontColor=E8FFF4&animation=twinkling" width="100%"/>
-
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!--                         END OF SESSION                                   -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
