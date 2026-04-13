@@ -24,13 +24,52 @@
   <a href="https://github.com/aniketsingh1023"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
----
+<br/>
 
 <!-- TYPING HERO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1F7A5C&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Aniket+Singh;%24+role+%E2%86%92+AI+Engineer+%7C+Full+Stack+%7C+DevOps;%24+ship+%E2%86%92+45%2C000%2B+users+on+Unjob.ai;%24+wins+%E2%86%92+SIH+2025+%28ISRO%29+%7C+AIR+1+BAJA+%7C+IIT+BBS;%24+stack+%E2%86%92+JS+%7C+TS+%7C+Python+%7C+AI+%7C+Cloud" alt="Typing SVG" />
   </a>
+</div>
+
+---
+
+<!-- BOOT SCREEN -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ANIKET-OS  v4.0.26  [production]                  ║
+║        kernel: ambition  •  arch: distributed  •  uptime: 24/7       ║
+║                                                                        ║
+║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  boot complete         ║
+║                                                                        ║
+║   ✓  AI subsystem          loaded                                     ║
+║   ✓  Full Stack runtime    loaded                                     ║
+║   ✓  DevOps pipeline       loaded                                     ║
+║   ✓  Builder mode          ACTIVE                                     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ABOUT TERMINAL -->
+<h3 align="center">About</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/chat.svg" alt="About Aniket" width="800"/>
+</div>
+
+---
+
+<!-- VS CODE CONFIG -->
+<h3 align="center">The Config File</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/coding.svg" alt="Aniket's Config" width="800"/>
 </div>
 
 ---
@@ -53,6 +92,10 @@ const currentFocus = {
 ---
 
 ### Experience
+
+```bash
+visitor@github:~$ cat experience.log
+```
 
 <table>
 <tr>
@@ -128,146 +171,122 @@ Lead — IPS Tech Club (200+ events). Published research on Polyp Detection usin
 
 ### Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```bash
+visitor@github:~$ ls projects/ --sort=impact
+```
 
-<h4><a href="https://unjob.ai">Unjob.ai</a></h4>
-
-AI-powered freelancer marketplace. **45,000+ users** on web + mobile. Full ownership from MVP to production.
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>CtrlAI</h4>
-
-Multi-agent orchestration platform — real-time Claude Code workflow automation inspired by n8n.
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_APIs-000?style=flat&logo=openai&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>TEDx IPSA 2026</h4>
-
-Official event platform with admin panel — **10,000+ users/day** at peak.
-
-<p>
-<img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>Polyp Detection — Medical AI</h4>
-
-Published research (2025): U-Net segmentation for early colorectal cancer detection.
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Research-Published-27AE60?style=flat"/>
-</p>
-
-</td>
-</tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│  🚀  Unjob.ai            AI Freelancer Marketplace                   │
+│      45,000+ users  ·  Next.js · TS · PostgreSQL · AWS               │
+│      → Production  [LIVE]                                            │
+│                                                                       │
+│  🤖  CtrlAI              Multi-Agent Orchestration Platform           │
+│      Claude Code orchestrator · real-time workflows                   │
+│      → Next.js · Prisma · Supabase · Clerk · LLM APIs               │
+│                                                                       │
+│  🎤  TEDx IPSA 2026      Official Platform                           │
+│      10,000+ users/day peak  ·  full admin panel                     │
+│      → React · Node.js · Express · MongoDB                           │
+│                                                                       │
+│  🛍️  Cartella            Multi-Vendor E-commerce                     │
+│      Modular vendor onboarding + product management                   │
+│      → Next.js · TypeScript · Prisma · PostgreSQL                    │
+│                                                                       │
+│  🧬  Polyp Detection     Medical AI Research (Published 2025)         │
+│      U-Net segmentation for early colorectal cancer detection         │
+│      → Python · TensorFlow · Medical Imaging                         │
+│                                                                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ### Tech Stack
 
+```bash
+visitor@github:~$ tech-stack --list all --verbose
+```
+
+```
+Resolving dependencies...  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%
+```
+
 <div align="center">
 
-**`Languages`**
+**`// ─── Languages ───────────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`Frontend & Mobile`**
+**`// ─── Frontend & Mobile ───────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`Backend & APIs`**
+**`// ─── Backend & APIs ──────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`Databases`**
+**`// ─── Databases ───────────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`Cloud & DevOps`**
+**`// ─── Cloud & DevOps ──────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux&theme=dark&perline=6" />
 
 <br/><br/>
 
-**`Tools`**
+**`// ─── Tools & Workflow ────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=git,github,prisma,supabase,vercel,netlify,postman,jira&theme=dark&perline=8" />
 
 </div>
 
+```
+→ 35+ packages installed  ·  all systems operational  ·  ready to ship
+```
+
 ---
 
 ### Achievements
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```bash
+visitor@github:~$ achievements --unlock all
+```
 
-**SIH 2025 — ISRO Problem Statement**
-National Winner. AI-powered solution using clean architecture.
-
-**AIR 1 — BAJA SAE India**
-Built an autonomous buggy vehicle. All-India Rank 1.
-
-**Frontend Battle — IIT Bhubaneswar**
-Winner. Fast-paced competitive frontend challenge.
-
-</td>
-<td width="50%" valign="top">
-
-**Hackndore Hackathon — Winner**
-Product shipped in 24 hrs.
-
-**GSSoC 2025 Contributor**
-Open source contributions across multiple repos.
-
-**Hacktoberfest 2024 — All Levels Completed**
-
-**IPS Tech Club Lead — 200+ events organized**
-
-</td>
-</tr>
-</table>
+```
+┌────────────────────────────────────────────────────────────────────┐
+│  🏆  SIH 2025 — ISRO Problem Statement Winner                      │
+│  🥇  AIR 1 — BAJA SAE India (Autonomous buggy vehicle)             │
+│  🎯  Frontend Battle Winner — IIT Bhubaneswar                      │
+│  ⚡  Hackndore Hackathon Winner                                     │
+│  🌍  Hacktoberfest 2024 — All Levels Completed                     │
+│  🤝  GSSoC Contributor 2025                                         │
+│  🎓  Mentored national-level hackathon teams                        │
+│  💼  Lead — IPS Tech Club  ·  200+ events organized                │
+└────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ### GitHub Analytics
+
+```bash
+visitor@github:~$ github-stats --user aniketsingh1023 --theme terminal
+```
+
+```
+Connecting to GitHub API...  authenticated  ✓
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&icon_color=1F7A5C&text_color=e6edf3&rank_icon=github" height="200" alt="GitHub Stats"/>
@@ -277,7 +296,49 @@ Open source contributions across multiple repos.
 
 ---
 
+### Trophies
+
+```bash
+visitor@github:~$ trophies --unlock all
+```
+
+```
+Decrypting vault...  access granted  ✓
+```
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=aniketsingh1023&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+### Holopin Badges
+
+```bash
+visitor@github:~$ achievements --display holopin
+```
+
+```
+Scanning badge wallet...  ██████████████████████████████  unlocked
+```
+
+<div align="center">
+
+[![@aniketsingh1023 Holopin Board](https://holopin.me/aniketsingh1023)](https://holopin.io/@aniketsingh1023)
+
+</div>
+
+---
+
 ### Contribution Snake
+
+```bash
+visitor@github:~$ contributions --render snake --mode dark
+```
+
+```
+Loading contribution graph...  nom nom nom
+```
 
 <div align="center">
   <picture>
@@ -287,11 +348,34 @@ Open source contributions across multiple repos.
   </picture>
 </div>
 
+```
+→ all squares consumed  ·  streak maintained  ·  commits: still counting
+```
+
 ---
+
+```bash
+visitor@github:~$ exit
+```
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A5C,50:145A32,100:0B3D2E&height=100&section=footer" width="100%" alt="Footer"/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        session terminated                            ║
+║                                                                      ║
+║   "Engineers build features — I build products."                     ║
+║                                                    — Aniket Singh    ║
+║                                                                      ║
+║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A5C,50:145A32,100:0B3D2E&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">

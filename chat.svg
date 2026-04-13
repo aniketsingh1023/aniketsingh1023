@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+  <style>
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink  { 0%,49%{ opacity:1 } 50%,100%{ opacity:0 } }
+    .l0  { opacity:0; animation: fadeIn .12s  .4s forwards; }
+    .l1  { opacity:0; animation: fadeIn .12s  .9s forwards; }
+    .l2  { opacity:0; animation: fadeIn .12s 1.3s forwards; }
+    .l3  { opacity:0; animation: fadeIn .12s 1.6s forwards; }
+    .l4  { opacity:0; animation: fadeIn .12s 1.9s forwards; }
+    .l5  { opacity:0; animation: fadeIn .12s 2.2s forwards; }
+    .l6  { opacity:0; animation: fadeIn .12s 2.5s forwards; }
+    .l7  { opacity:0; animation: fadeIn .12s 2.8s forwards; }
+    .l8  { opacity:0; animation: fadeIn .12s 3.1s forwards; }
+    .l9  { opacity:0; animation: fadeIn .12s 3.4s forwards; }
+    .l10 { opacity:0; animation: fadeIn .12s 3.7s forwards; }
+    .lc  { opacity:0; animation: fadeIn .12s 3.7s forwards; }
+    .cur { animation: blink .8s 3.85s infinite; }
+    text, tspan { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; }
+  </style>
+
+  <!-- Window -->
+  <rect width="800" height="360" rx="10" fill="#0d1117"/>
+  <rect width="800" height="360" rx="10" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="36" rx="10" fill="#161b22"/>
+  <rect y="18" width="800" height="18" fill="#161b22"/>
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="18" r="6" fill="#27c93f"/>
+  <text x="400" y="23" text-anchor="middle" fill="#8b949e" font-size="12px">aniket@terminal: ~/about</text>
+
+  <!-- L0: command -->
+  <text y="66" class="l0">
+    <tspan x="22" fill="#27AE60">visitor@aniket</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#7FFFD4">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">./about.sh</tspan>
+  </text>
+
+  <!-- L1 -->
+  <text y="96" class="l1">
+    <tspan x="40" fill="#8b949e">  NAME      </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">Aniket Singh</tspan>
+  </text>
+
+  <!-- L2 -->
+  <text y="120" class="l2">
+    <tspan x="40" fill="#8b949e">  ROLE      </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">AI Engineer  ·  Full Stack  ·  DevOps</tspan>
+  </text>
+
+  <!-- L3 -->
+  <text y="144" class="l3">
+    <tspan x="40" fill="#8b949e">  LOCATION  </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">Indore  &#8594;  Noida, India</tspan>
+  </text>
+
+  <!-- L4 -->
+  <text y="168" class="l4">
+    <tspan x="40" fill="#8b949e">  COMPANY   </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">Unjob.ai  [ Founding Engineer ]</tspan>
+  </text>
+
+  <!-- L5 -->
+  <text y="192" class="l5">
+    <tspan x="40" fill="#8b949e">  IMPACT    </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">45,000+ users &amp; counting</tspan>
+  </text>
+
+  <!-- L6 -->
+  <text y="216" class="l6">
+    <tspan x="40" fill="#8b949e">  EDUCATION </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">B.Tech CSE (AI &amp; ML)  ·  IES IPS Academy</tspan>
+  </text>
+
+  <!-- L7 -->
+  <text y="240" class="l7">
+    <tspan x="40" fill="#8b949e">  RESEARCH  </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">Polyp Detection · U-Net  (Published 2025)</tspan>
+  </text>
+
+  <!-- L8 -->
+  <text y="264" class="l8">
+    <tspan x="40" fill="#8b949e">  WINS      </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">SIH 2025 ISRO  ·  AIR 1 BAJA  ·  IIT BBS</tspan>
+  </text>
+
+  <!-- L9 -->
+  <text y="288" class="l9">
+    <tspan x="40" fill="#8b949e">  CONTACT   </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#e6edf3">aniketsinghn10@gmail.com</tspan>
+  </text>
+
+  <!-- L10 -->
+  <text y="312" class="l10">
+    <tspan x="40" fill="#8b949e">  PORTFOLIO </tspan><tspan fill="#27AE60">&#8594;  </tspan><tspan fill="#7FFFD4">anik8.me</tspan>
+  </text>
+
+  <!-- Cursor line -->
+  <text y="342" class="lc">
+    <tspan x="22" fill="#27AE60">visitor@aniket</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#7FFFD4">~</tspan><tspan fill="#8b949e">$ </tspan><tspan class="cur" fill="#27AE60">&#9608;</tspan>
+  </text>
+
+</svg>
