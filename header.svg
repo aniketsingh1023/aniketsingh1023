@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#0B3D2E"/>
+      <stop offset="45%"  stop-color="#091a12"/>
+      <stop offset="100%" stop-color="#0B3D2E"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes glitchMain {
+      0%,93%,100% { transform: translate(0,0); }
+      94%          { transform: translate(-4px, 0); }
+      95%          { transform: translate( 4px, 1px); }
+      96%          { transform: translate(-2px,-1px); }
+      97%          { transform: translate( 2px, 0); }
+      98%          { transform: translate(0,0); }
+    }
+    @keyframes glitchRed {
+      0%,93%,100% { transform: translate(0,0); opacity: 0; }
+      94%          { transform: translate( 5px, 0); opacity: 0.75; }
+      95%          { transform: translate(-5px, 2px); opacity: 0.5; }
+      96%          { transform: translate( 3px,-1px); opacity: 0.3; }
+      97%          { transform: translate(0,0); opacity: 0; }
+    }
+    @keyframes glitchCyan {
+      0%,92.5%,100% { transform: translate(0,0); opacity: 0; }
+      93%            { transform: translate(-6px, 0); opacity: 0.65; }
+      94%            { transform: translate( 6px, 2px); opacity: 0.45; }
+      95%            { transform: translate(-3px, 0); opacity: 0.2; }
+      96%            { transform: translate(0,0); opacity: 0; }
+    }
+    @keyframes blink {
+      0%,42%,58%,100% { opacity: 1; }
+      50%              { opacity: 0.3; }
+    }
+    @keyframes lineGlow {
+      0%,100% { opacity: 0.4; }
+      50%     { opacity: 1; }
+    }
+    .mt  { animation: glitchMain 6s ease-in-out infinite; }
+    .gr  { animation: glitchRed  6s ease-in-out infinite; fill: #ff3355; opacity: 0; }
+    .gc  { animation: glitchCyan 6s ease-in-out infinite; fill: #00ffcc; opacity: 0; }
+    .sub { animation: blink 3s ease-in-out infinite; }
+    .ln  { animation: lineGlow 3s ease-in-out infinite; }
+    text { font-family: 'Arial Black', Impact, 'Haettenschweiler', sans-serif; }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="180" fill="url(#bg)"/>
+
+  <!-- Glitch red layer -->
+  <text x="400" y="108" text-anchor="middle" font-size="60" font-weight="900"
+        letter-spacing="6" class="gr">ANIKET SINGH</text>
+
+  <!-- Glitch cyan layer -->
+  <text x="400" y="108" text-anchor="middle" font-size="60" font-weight="900"
+        letter-spacing="6" class="gc">ANIKET SINGH</text>
+
+  <!-- Main text with glow -->
+  <text x="400" y="108" text-anchor="middle" fill="#ffffff" font-size="60" font-weight="900"
+        letter-spacing="6" filter="url(#glow)" class="mt">ANIKET SINGH</text>
+
+  <!-- Decorative line -->
+  <line x1="60" y1="124" x2="740" y2="124" stroke="#27AE60" stroke-width="1" class="ln"/>
+
+  <!-- Subtitle -->
+  <text x="400" y="150" text-anchor="middle" fill="#7FFFD4" font-size="13"
+        font-family="'Courier New', Courier, monospace" letter-spacing="5" class="sub">
+    AI ENGINEER  ·  FULL STACK  ·  DEVOPS
+  </text>
+
+</svg>
