@@ -299,9 +299,9 @@ Connecting to GitHub API...  authenticated  ✓
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&icon_color=1F7A5C&text_color=e6edf3&rank_icon=github" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=27AE60&icon_color=1F7A5C&text_color=e6edf3&rank_icon=github&cache_seconds=14400" height="195" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=aniketsingh1023&theme=github-dark-blue&hide_border=true&background=0d1117&ring=27AE60&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh1023&theme=github-dark-blue&hide_border=true&background=0d1117&ring=27AE60&fire=7FFFD4&currStreakNum=e6edf3&currStreakLabel=27AE60&sideNums=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=0d1117" height="195" alt="GitHub Streak"/>
 </div>
 
 ---
