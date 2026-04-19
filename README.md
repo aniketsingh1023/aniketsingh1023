@@ -274,16 +274,16 @@ visitor@github:~$ achievements --unlock all
 ```
 
 ```
-┌────────────────────────────────────────────────────────────────────┐
-│  🏆  SIH 2025 — ISRO Problem Statement Winner                      │
-│  🥇  AIR 1 — BAJA SAE India (Autonomous buggy vehicle)             │
-│  🎯  Frontend Battle Winner — IIT Bhubaneswar                      │
-│  ⚡  Hackndore Hackathon Winner                                     │
-│  🌍  Hacktoberfest 2024 — All Levels Completed                     │
+┌──────────────────────────────────────────────────────────────────── ┐
+│  🏆  SIH 2025 — ISRO Problem Statement Winner                       │
+│  🥇  AIR 1 — BAJA SAE India (Autonomous buggy vehicle)              │
+│  🎯  Frontend Battle Winner — IIT Bhubaneswar                       │
+│  ⚡  Hackndore Hackathon Winner                                      │
+│  🌍  Hacktoberfest 2024 — All Levels Completed                      │
 │  🤝  GSSoC Contributor 2025                                         │
 │  🎓  Mentored national-level hackathon teams                        │
-│  💼  Lead — IPS Tech Club  ·  200+ events organized                │
-└────────────────────────────────────────────────────────────────────┘
+│  💼  Lead — IPS Tech Club  ·  200+ events organized                 │
+└──────────────────────────────────────────────────────────────────── ┘
 ```
 
 ---
@@ -378,7 +378,7 @@ visitor@github:~$ exit
 ║   "Engineers build features — I build products."                     ║
 ║                                                    — Aniket Singh    ║
 ║                                                                      ║
-║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai        ║
+║   🌐 anik8.me  ·  📬 aniketsinghn10@gmail.com  ·  🚀 Unjob.ai         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
