@@ -382,11 +382,7 @@ visitor@github:~$ exit
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F7A5C,50:145A32,100:0B3D2E&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
 
 <div align="center">
   <sub>Built with caffeine and curiosity &nbsp;|&nbsp; <a href="https://anik8.me">anik8.me</a></sub>
