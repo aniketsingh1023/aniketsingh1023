@@ -306,19 +306,6 @@ Connecting to GitHub API...  authenticated  ✓
 
 ---
 
-### Trophies
-
-```bash
-visitor@github:~$ trophies --unlock all
-```
-
-```
-Decrypting vault...  access granted  ✓
-```
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=aniketsingh1023&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
 
 ---
 
