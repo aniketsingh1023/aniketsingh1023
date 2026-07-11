@@ -1,3 +1,10 @@
+<!-- ASCII SELF-PORTRAIT (types itself out, terminal style) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/aniket.svg" alt="Aniket Singh — ASCII portrait" width="480"/>
+</div>
+
+<br/>
+
 <!-- HEADER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/header.svg" alt="Aniket Singh" width="800"/>
@@ -29,7 +36,7 @@
 <!-- TYPING HERO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1F7A5C&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Aniket+Singh;%24+role+%E2%86%92+AI+Engineer+%7C+Full+Stack+%7C+DevOps;%24+ship+%E2%86%92+45%2C000%2B+users+on+Unjob.ai;%24+wins+%E2%86%92+SIH+2025+%28ISRO%29+%7C+AIR+1+BAJA+%7C+IIT+BBS;%24+stack+%E2%86%92+JS+%7C+TS+%7C+Python+%7C+AI+%7C+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=1F7A5C&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Aniket+Singh;%24+role+%E2%86%92+CTO+%40+Maxcode+IT+Solutions;%24+also+%E2%86%92+Founding+Engineer+%7C+Full+Stack+%7C+AI;%24+ship+%E2%86%92+45%2C000%2B+users+on+Unjob.ai;%24+wins+%E2%86%92+SIH+2025+%28ISRO%29+%7C+AIR+1+BAJA+%7C+IIT+BBS;%24+stack+%E2%86%92+JS+%7C+TS+%7C+Python+%7C+AI+%7C+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
@@ -58,6 +65,7 @@
 ```typescript
 const currentFocus = {
   roles: [
+    { company: "Maxcode IT Solutions", role: "Chief Technology Officer (CTO)" },
     { company: "Unjob.ai", role: "Founding Engineer & Project Lead" },
   ],
   building: ["AI-powered freelancer marketplace", "Multi-agent orchestration platform (CtrlAI)"],
@@ -77,6 +85,25 @@ visitor@github:~$ cat experience.log
 ```
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+<h4>Maxcode IT Solutions &nbsp;—&nbsp; Chief Technology Officer (CTO)</h4>
+<sub>Present &nbsp;|&nbsp; Leading engineering & product strategy</sub>
+
+Own the tech vision, architecture, and delivery across the company's web & AI products — building and leading the engineering team.
+
+<p>
+<img src="https://img.shields.io/badge/Leadership-0d1117?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-000?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -276,6 +303,7 @@ visitor@github:~$ achievements --unlock all
 ```
 ┌──────────────────────────────────────────────────────────────────── ┐
 │  🏆  SIH 2025 — ISRO Problem Statement Winner                       │
+│  🥈  AMD Slingshot Hackathon (Hack2Skill) — 1st Runner Up           │
 │  🥇  AIR 1 — BAJA SAE India (Autonomous buggy vehicle)              │
 │  🎯  Frontend Battle Winner — IIT Bhubaneswar                       │
 │  ⚡  Hackndore Hackathon Winner                                      │
