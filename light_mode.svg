@@ -1,34 +1,43 @@
-<svg xmlns='http://www.w3.org/2000/svg' font-family="Consolas,'DejaVu Sans Mono',monospace" width='1130px' height='530px' font-size='16px'>
+<svg xmlns='http://www.w3.org/2000/svg' font-family="Consolas,'DejaVu Sans Mono',monospace" width='1120px' height='540px' font-size='16px'>
 <style>.key{fill:#953800;} .value{fill:#0a3069;} .cc{fill:#6e7781;} .add{fill:#1a7f37;} .del{fill:#cf222e;} text,tspan{white-space:pre;} /* type-in reveal for each info line */</style>
-<rect width='1130px' height='530px' fill='#ffffff' rx='15'/>
-<text x='15' y='30' fill='#24292f'>
-<tspan x='15' y='30'>}{{[????-_+ii!!lII;:,,"""^"""":;;,:,;,":Ill</tspan>
-<tspan x='15' y='50'>][[]?--?_+i!lI;,""^'``'.''````",,,"^""",::;</tspan>
-<tspan x='15' y='70'>????-___~!;,I+}trcXvYOU|!,^. .`^",""^^"""""</tspan>
-<tspan x='15' y='90'>-----~++ll1Jh&amp;88BBBB@B%BMakZnl .^"^^```^^^^</tspan>
-<tspan x='15' y='110'>__-_+~i!|dB$$@B8%@B@%%%%B$$$$bf[^^`''''````</tspan>
-<tspan x='15' y='130'>_++~~!l~*$$$$$$@&amp;W@$%%$$$%%@$$#X;''''.'''``</tspan>
-<tspan x='15' y='150'>++~~ilI~M$$@8*M$B&amp;8&amp;@8&amp;#admb8BWt^'''....'''</tspan>
-<tspan x='15' y='170'>~~~i!II:Y$$&amp;pZwpwOmmmYXUCLLOh&amp;b,^.... ....'</tspan>
-<tspan x='15' y='190'>~~~ilII;:w$MwZCvnncxtxnnxcUJ0oO ..       ..</tspan>
-<tspan x='15' y='210'>i~ii!lI;^~bmZqL(/XCUXQXvxYQJXm( ....      .</tspan>
-<tspan x='15' y='230'>~~~illlI,^cwOqqLCC0QY0YXXXYJ0pJ! .</tspan>
-<tspan x='15' y='250'>~ii!lII;^:OoOYvxxX0JvLJvxjnUQZX_ .</tspan>
-<tspan x='15' y='270'>~~~illl;"`rhw0YXJOwOC0ZJYXYJCZL:</tspan>
-<tspan x='15' y='290'>+++~!ll;"`ioqOCqdbmYxXOqpOzYJqX</tspan>
-<tspan x='15' y='310'>__++i!l;,^`X*mQQJZY/(fXLXXzJOp! .</tspan>
-<tspan x='15' y='330'>_++~i!lI,"^"Z8kwCXCLYYXvu0Opou  ..</tspan>
-<tspan x='15' y='350'>---+i!!I;:"`"Q@BWmUYcczJq&amp;W%L.</tspan>
-<tspan x='15' y='370'>??-+i!!lI;,^'.w$$$8MW&amp;&amp;%$$@Wn</tspan>
-<tspan x='15' y='390'>]?-+iii!l;"^"iO*W%$$$$$@8*pOQf|;.</tspan>
-<tspan x='15' y='410'>[]?_~i!lI!]xQpbZOOmpbbpOCJJJL0wmYt!.</tspan>
-<tspan x='15' y='430'>]__+~i-|zZdpdbkqQJYXXYXXzXXzXCmqqpCYj[i,'</tspan>
-<tspan x='15' y='450'>~~?[tXmwqqwwqpdbdqZQCUYYYJQZwpqwwwZ0mQ0QJxr</tspan>
-<tspan x='15' y='470'>vCOwqqpwbpqwmmOmqpqppqqqqqqqwwwwwwOCUQQLwQZ</tspan>
-<tspan x='15' y='490'>wwmwZmmpdpmZZmZOZwwmmmmwwmwwwwwwqqwm0L00ZLU</tspan>
-<tspan x='15' y='510'>0mmZOOmqwqZZZZZOZmmwwwmmmmmmmmmwwwwwUXZLUCX</tspan>
+<rect width='1120px' height='540px' fill='#ffffff' rx='15'/>
+<text x='15' y='24' fill='#24292f' font-size='13px'>
+<tspan x='15' y='24'>''``'`.  '````````'''... .</tspan>
+<tspan x='15' y='38'>```'''. .``````'`'''.    .''.'.          ..'''''..'..</tspan>
+<tspan x='15' y='52'>......  .'''''''''..           "_1|}]_l,. .'''```'`'`''.</tspan>
+<tspan x='15' y='66'>     ..   .''''''.     .."~?)jYm*&amp;&amp;*kmcj]I..'''''```''.'</tspan>
+<tspan x='15' y='80'>      ..   ...    '^i-]-fJYO*%$%%$$$$&amp;dXc{l`'''`''''. .</tspan>
+<tspan x='15' y='94'>             `l_{(ruU0OOqq#$$$$$$$$@$$BMkQ[,.  `</tspan>
+<tspan x='15' y='108'>    ..... .:]xJOOLU0b#WW&amp;B$$$$$$$$$$$$@$B#Q(`  .       '</tspan>
+<tspan x='15' y='122'>         '+cLpdbadd#8@$$$$$$$$$$$$$$$$$$$hOX_,' ....</tspan>
+<tspan x='15' y='136'>      ';l{Cpdk*&amp;8WB$$$$$@%&amp;M#MW%@$$$$$$$$0OJ}^"</tspan>
+<tspan x='15' y='150'>...  ^1QnvOd#%B@@$$$$$BWadmOQLQ0mqqqpbM$MZav!,"'</tspan>
+<tspan x='15' y='164'>''.. ,tmapo8@$$$$$$$BWabwOLCJUYYYXXzvnn0%W0}!:''</tspan>
+<tspan x='15' y='178'> .  ."1wM%@$$$$$$$$%MhpwZ0LJUYYXcvvuxjt(JU_,`..     .'''</tspan>
+<tspan x='15' y='192'>    '~v*@$$$$$$$@B&amp;abqm0QCUYXzcvnxxxxf/1?Jn,  ..  ..''``</tspan>
+<tspan x='15' y='206'>     ^xB@$$$$$$%*kdqwwmOUYUYYUYXzcvunnxt]1r'  .'''''''''</tspan>
+<tspan x='15' y='220'>''...^X%@$$$$@&amp;adqwwm0UUrYJUJLQJXzUYYCQLUx?`.. ..'''''''</tspan>
+<tspan x='15' y='234'> .''.;Z%$$$@%&amp;apwmmmmZOcUwZOmmmm0XYcXzczvj1:",I"  .''...</tspan>
+<tspan x='15' y='248'>     .{W$$@%#akdwZO0OmhmCabqdkbqmCJYJJJ0QY}.  '-~'</tspan>
+<tspan x='15' y='262'>      'Lkdh#W&amp;adpwZQJUUUvYJJJUUUUC0Yx/xZq01^;i~}i'</tspan>
+<tspan x='15' y='276'>       /ppbbkkqwqwZQCYzvurjrrxvzYUUUzn/fvt?:"'"+</tspan>
+<tspan x='15' y='290'>.     'Xw0w*kbpqpqmOQCJJUXXXYJ0Z0Zb*hmOut|},.^i^   ..</tspan>
+<tspan x='15' y='304'>`'.'. .nZmk*bhhpdpqmZmmmZOOOZwmpkaaaawb0Ynt?^"' ........</tspan>
+<tspan x='15' y='318'>```''' l0mZmho*kdpqqqpppqwmZZmZZwpdwwwLYQLX|`  .......''</tspan>
+<tspan x='15' y='332'>```'''. ?LmZZoWM*hbpdpppqwdo8&amp;*ahkdpwZLYUYv|`    .......</tspan>
+<tspan x='15' y='346'> .....   IcCZ#B%&amp;*okkbbdqwoMMM#hd0CJCb*bo0r(^    .......</tspan>
+<tspan x='15' y='360'>`'.       !Lpa8B%W#*oa**kpbqZmqmOCYcczXwbZnf^     .....'</tspan>
+<tspan x='15' y='374'>^^^`'.     iLpa8%&amp;&amp;W&amp;&amp;&amp;W#oodmmqbh*okpLunYCzn"    .......</tspan>
+<tspan x='15' y='388'>^^^^``''..  +mbM&amp;8%BB@BBBBBMdZ0QOwwZ0cnvJLL/.  .........</tspan>
+<tspan x='15' y='402'>^``'.        rpa8BB@$$$$$$$BMkwO0OOZLzuYOwL!    ........</tspan>
+<tspan x='15' y='416'>'.           lZk8$$$$$$$$$$$$B8&amp;MM&amp;8#kmwpm{.         ...</tspan>
+<tspan x='15' y='430'>             .zda8@$$$$$$$$$$$$$$$$$$B8Ma/           ...</tspan>
+<tspan x='15' y='444'>    ..        |qk*W%@$$$$$$$$$$$$$$$$$$#r`.'.</tspan>
+<tspan x='15' y='458'>'.''.. .      1wko#&amp;B@@$$$$$$$$$$$$$$&amp;0{:`,!"</tspan>
+<tspan x='15' y='472'>````. .'. .`^"jqba*W&amp;B@$$$$$$$$$$$$WO/_!I,,^`'.</tspan>
+<tspan x='15' y='486'>.'''    '`,!~)JwbaoM&amp;%@$$$$$$$$$@*U)_~~!I;::I!!l"'.</tspan>
 </text>
-<text><tspan x='500' y='30' fill='#24292f'>aniket@singh</tspan><tspan class='cc'> -———————————————————————————————————-</tspan></text>
+<text><tspan x='500' y='30' fill='#24292f'>aniket@singh</tspan><tspan class='cc'> -——————————————————————————————————-</tspan></text>
 <text><tspan x='500' y='50'><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">macOS · Linux · Android</tspan></tspan></text>
 <text><tspan x='500' y='70'><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">21 years</tspan></tspan></text>
 <text><tspan x='500' y='90'><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Maxcode IT Solutions</tspan></tspan></text>
@@ -42,13 +51,13 @@
 <text><tspan x='500' y='250'><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Hackathons, Open Source, AI</tspan></tspan></text>
 <text><tspan x='500' y='270'><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Building</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Startups, Dev Tools</tspan></tspan></text>
 <text><tspan x='500' y='290' class='cc'>. </tspan></text>
-<text><tspan x='500' y='310' fill='#24292f'>- Contact</tspan><tspan class='cc'> -——————————————————————————————————————-</tspan></text>
+<text><tspan x='500' y='310' fill='#24292f'>- Contact</tspan><tspan class='cc'> -—————————————————————————————————————-</tspan></text>
 <text><tspan x='500' y='330'><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">aniketsinghn10@gmail.com</tspan></tspan></text>
 <text><tspan x='500' y='350'><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">anik8.me</tspan></tspan></text>
 <text><tspan x='500' y='370'><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">aniketsingh1023</tspan></tspan></text>
 <text><tspan x='500' y='390'><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">aniketsingh1023</tspan></tspan></text>
 <text><tspan x='500' y='410' class='cc'>. </tspan></text>
-<text><tspan x='500' y='430' fill='#24292f'>- GitHub Stats</tspan><tspan class='cc'> -—————————————————————————————————-</tspan></text>
+<text><tspan x='500' y='430' fill='#24292f'>- GitHub Stats</tspan><tspan class='cc'> -————————————————————————————————-</tspan></text>
 <text><tspan x='500' y='450'><tspan class='cc'>. </tspan><tspan class='key'>Repos</tspan><tspan class='cc'> ..... </tspan><tspan class='value'>72</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Stars</tspan><tspan class='cc'> ..... </tspan><tspan class='value'>23</tspan></tspan></text>
 <text><tspan x='500' y='470'><tspan class='cc'>. </tspan><tspan class='key'>Commits</tspan><tspan class='cc'> ... </tspan><tspan class='value'>2,936</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Followers</tspan><tspan class='cc'> . </tspan><tspan class='value'>49</tspan></tspan></text>
 <text><tspan x='500' y='490'><tspan class='cc'>. </tspan><tspan class='key'>Member Since</tspan><tspan class='cc'> ... </tspan><tspan class='value'>March 2023</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Location</tspan><tspan class='cc'> . </tspan><tspan class='value'>Indore, IN</tspan></tspan></text>
