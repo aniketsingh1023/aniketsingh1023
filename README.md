@@ -1,6 +1,16 @@
-<a href="https://github.com/aniketsingh1023">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/dark_mode.svg">
-    <img alt="Aniket Singh's GitHub Profile README" src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/main/light_mode.svg">
-  </picture>
-</a>
+Yo. Myself
+## Aniket Singh ##
+i code almost 18 hours a day 
+, it calms me 
+
+If you talk to me , I will try to gaslight you into thinking that you can build a billion dollar tech company ;-)
+
+I help founders scale their tech Journey 
+
+I am a Full Stack | AI | Devops | Systems Engineer with 3+ years of experience
+
+Lead & Delivered 20 + Projects 
+
+In my college days ,  I have won 10+ hackathons
+
+visit my portfolio website <https://anik8.me>
