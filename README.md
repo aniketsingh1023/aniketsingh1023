@@ -48,10 +48,6 @@
 <p align="center"><img src="./assets/banner-stats.svg" width="100%" alt="Stats from the crypt"/></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aniketsingh1023&show_icons=true&hide_border=true&bg_color=100818&title_color=ff7a1a&icon_color=7dff6a&text_color=e9d8ff" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsingh1023&layout=compact&hide_border=true&bg_color=100818&title_color=ff7a1a&text_color=e9d8ff" alt="Top languages"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=aniketsingh1023&hide_border=true&background=100818&ring=ff7a1a&fire=7dff6a&currStreakLabel=ff7a1a&sideLabels=e9d8ff&currStreakNum=e9d8ff&sideNums=e9d8ff&dates=a990c9" alt="Streak stats"/>
 </p>
 <p align="center">
